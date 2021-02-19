@@ -3,6 +3,7 @@
 ### Cloner le projet
 ```
 git clone https://github.com/BaptisteAngot/SFDSFlorian.git
+composer install
 ```
 Pour l'utilisation du bundle jwt-authentication-bundle, veuillez créer une clé à l'aide de la commande
 
